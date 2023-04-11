@@ -9,7 +9,7 @@ De连飞地图前端
 将`dist`文件夹内的所有文件复制到`views`文件夹中（建议将`views`文件夹内的文件删除后粘贴）
 
 # 搭建文档
-http:map.deteam.cn
+http://map.deteam.cn
 
 # 大家庭
 官方QQ群：815134571
